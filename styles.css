@@ -1,0 +1,41 @@
+p {
+    color: blue;
+    background-color: lightgray;
+}
+
+#site-header {
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+#site-header:hover {
+    font-size: 25px;
+}
+
+.site-nav-item {
+    font-style: italic;
+}
+
+img {
+    display: block;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    border: 20px solid black;
+    /* margin-left: 100px; */
+    padding: 15px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.size-units-ex {
+    width: 75vw;
+    background-color: darkblue;
+}
+
+.size-units-ex p {
+    width: 50vw;
+}
